@@ -1,0 +1,6 @@
+2020-06-12 19:01:35,485 INFO com.virtusa.customerapidemo.CustomerapidemoApplication [main] Starting CustomerapidemoApplication on DESKTOP-8B9C4FK with PID 3032 (C:\Users\Yongle Wang\Downloads\customerapidemo (1)\customerapidemo\target\classes started by Yongle Wang in C:\Users\Yongle Wang\Downloads\customerapidemo (1)\customerapidemo)
+2020-06-12 19:01:35,490 DEBUG com.virtusa.customerapidemo.CustomerapidemoApplication [main] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-06-12 19:01:35,490 INFO com.virtusa.customerapidemo.CustomerapidemoApplication [main] The following profiles are active: development
+2020-06-12 19:01:39,737 INFO com.virtusa.customerapidemo.configurations.DbConfiguration [main] Development
+2020-06-12 19:01:39,739 DEBUG com.virtusa.customerapidemo.configurations.DbConfiguration [main] development profile....
+2020-06-12 19:01:44,874 INFO com.virtusa.customerapidemo.CustomerapidemoApplication [main] Started CustomerapidemoApplication in 9.921 seconds (JVM running for 10.772)
